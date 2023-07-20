@@ -1,11 +1,11 @@
-#[PYTHON]Documents detector(Upgradable to real time detector if camera equipped)
-###Introduction
+# [PYTHON]Documents detector(Upgradable to real time detector if camera equipped)
+### Introduction
 ------------
-######* This program takes an input image containing a document and detects the document within the image. It then warps the document and displays it in a separate window. 
+- This program takes an input image containing a document and detects the document within the image. It then warps the document and displays it in a separate window. 
   
-######* This is a very basic project for starting Computer Vision. The outputs are not always good enough to read, based on the condition of input
+- This is a very basic project for starting Computer Vision. The outputs are not always good enough to read, based on the condition of input
 
-######* Note that users have to adjust the path to the image
+###### Note that users have to adjust the path to the image
 ------
 ### Sample Demonstration
 <p align="center">
